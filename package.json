@@ -1,0 +1,14 @@
+{
+  "name": "finsyn-serviceid",
+  "version": "1.0.0",
+  "description": "Mini util to parse Finsyn serviceId strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap *.spec.js"
+  },
+  "author": "info@finsyn.se",
+  "license": "ISC",
+  "devDependencies": {
+    "tap": "^12.6.3"
+  }
+}
