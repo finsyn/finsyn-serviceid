@@ -1,6 +1,6 @@
 {
   "name": "finsyn-serviceid",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Mini util to parse Finsyn serviceId strings",
   "main": "index.js",
   "scripts": {
